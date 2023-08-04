@@ -1,8 +1,22 @@
 ### Hi there 👋
 
-Skills
+Tools and Skills:
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+Programming Languages and Frameworks:
+<div>
+  <i class="devicon-javascript-plain"></i>
+  <i class="devicon-java-plain-wordmark colored"></i>
+  
+            <i class="devicon-python-plain-wordmark colored"></i>
+          
+            <i class="devicon-typescript-plain colored"></i>
+          
+            <i class="devicon-nodejs-plain-wordmark colored"></i>
+          
+  <i class="devicon-react-original-wordmark colored"></i>
+</div>
+            
+          
 
 <div>
 <a href="https://github.com/rafaelor20">
