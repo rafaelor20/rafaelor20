@@ -12,12 +12,16 @@ Programming Languages and Frameworks:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
 </div>
 
+<a></a>
+
 Databases:
 <div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
 </div>
+
+<a></a>
 
 Tools:
 <div>
@@ -26,9 +30,7 @@ Tools:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>
 </div>
 
-<div>
-          
-</div>
+<a></a>
 
 <div>
 <a href="https://github.com/rafaelor20">
