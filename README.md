@@ -4,16 +4,9 @@ Tools and Skills:
 
 Programming Languages and Frameworks:
 
-  <i class="devicon-javascript-plain"></i>
-  <i class="devicon-java-plain-wordmark colored"></i>
-  
-            <i class="devicon-python-plain-wordmark colored"></i>
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
           
-            <i class="devicon-typescript-plain colored"></i>
-          
-            <i class="devicon-nodejs-plain-wordmark colored"></i>
-          
-  <i class="devicon-react-original-wordmark colored"></i>
 
             
           
