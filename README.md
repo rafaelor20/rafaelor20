@@ -3,7 +3,7 @@
 Tools and Skills:
 
 Programming Languages and Frameworks:
-<div>
+
   <i class="devicon-javascript-plain"></i>
   <i class="devicon-java-plain-wordmark colored"></i>
   
@@ -14,7 +14,7 @@ Programming Languages and Frameworks:
             <i class="devicon-nodejs-plain-wordmark colored"></i>
           
   <i class="devicon-react-original-wordmark colored"></i>
-</div>
+
             
           
 
