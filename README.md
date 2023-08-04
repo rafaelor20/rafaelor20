@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Tools and Skills:
-
 Programming Languages and Frameworks:
 
 <div>
@@ -9,9 +7,7 @@ Programming Languages and Frameworks:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </div>
           
-
-            
-          
+<div></div>
 
 <div>
 <a href="https://github.com/rafaelor20">
