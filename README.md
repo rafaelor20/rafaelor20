@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am a fullstack software developer, check my skills below: 
 
-Skills:
+
 
 Programming Languages and Frameworks:
 <div>
